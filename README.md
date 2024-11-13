@@ -6,4 +6,4 @@ Note that the margins of error are quite high relative to the flows, so I wouldn
 
 oneway.csv contains 2 observations for each state pair for each year
 
-twoway.csv contains 1 observation for each state pair for each year with the state_to and state_from arranged so that every flow is positive
+twoway.csv contains 1 net flow observation for each state pair for each year with the state_to and state_from arranged so that every flow is positive
